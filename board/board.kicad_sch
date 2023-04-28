@@ -1413,7 +1413,7 @@
       (reference "R1") (unit 1) (value "10k") (footprint "Resistor_SMD:R_0603_1608Metric")
     )
     (path "/00000000-0000-0000-0000-000060d005c4/00000000-0000-0000-0000-000060d02b59"
-      (reference "U1") (unit 1) (value "ADS131M08") (footprint "Package_DFN_QFN:WQFN-32-1EP_5x5mm_P0.5mm_EP3.1x3.1mm")
+      (reference "U1") (unit 1) (value "ADS131M08") (footprint "Package_DFN_QFN:QFN-32-1EP_4x4mm_P0.4mm_EP2.9x2.9mm")
     )
     (path "/00000000-0000-0000-0000-000060d005c4/00000000-0000-0000-0000-000060d399ec"
       (reference "Y1") (unit 1) (value "8MhZ") (footprint "Crystal:Crystal_SMD_5032-2Pin_5.0x3.2mm")

@@ -593,7 +593,7 @@
     (uuid 00000000-0000-0000-0000-000060d02b59)
     (property "Reference" "U1" (id 0) (at 136.525 58.2676 0))
     (property "Value" "ADS131M08" (id 1) (at 136.525 60.579 0))
-    (property "Footprint" "Package_DFN_QFN:WQFN-32-1EP_5x5mm_P0.5mm_EP3.1x3.1mm" (id 2) (at 136.525 95.885 0)
+    (property "Footprint" "Package_DFN_QFN:QFN-32-1EP_4x4mm_P0.4mm_EP2.9x2.9mm" (id 2) (at 136.525 95.885 0)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Datasheet" "https://www.ti.com/lit/ds/symlink/ads131m08.pdf?ts=1648074248791&ref_url=https%253A%252F%252Fwww.ti.com%252Fproduct%252FADS131M08" (id 3) (at 160.655 62.865 0)
